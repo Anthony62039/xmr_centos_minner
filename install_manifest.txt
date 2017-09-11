@@ -1,1 +1,0 @@
-/opt/xmr-stak-cpu-master/xmr-stak-cpu/bin/config.txt

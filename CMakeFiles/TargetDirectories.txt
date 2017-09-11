@@ -1,5 +1,5 @@
-/opt/xmr-stak-cpu-master/xmr-stak-cpu/CMakeFiles/install.dir
 /opt/xmr-stak-cpu-master/xmr-stak-cpu/CMakeFiles/install/local.dir
+/opt/xmr-stak-cpu-master/xmr-stak-cpu/CMakeFiles/install.dir
 /opt/xmr-stak-cpu-master/xmr-stak-cpu/CMakeFiles/xmr-stak-cpu.dir
 /opt/xmr-stak-cpu-master/xmr-stak-cpu/CMakeFiles/install/strip.dir
 /opt/xmr-stak-cpu-master/xmr-stak-cpu/CMakeFiles/edit_cache.dir

@@ -1,4 +1,4 @@
-#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
 
 #IncludeRegexScan: ^.*$
 
@@ -279,6 +279,26 @@ string
 /opt/xmr-stak-cpu-master/xmr-stak-cpu/jext.h
 
 /opt/xmr-stak-cpu-master/xmr-stak-cpu/jpsock.cpp
+stdarg.h
+-
+assert.h
+-
+jpsock.h
+/opt/xmr-stak-cpu-master/xmr-stak-cpu/jpsock.h
+executor.h
+/opt/xmr-stak-cpu-master/xmr-stak-cpu/executor.h
+jconf.h
+/opt/xmr-stak-cpu-master/xmr-stak-cpu/jconf.h
+rapidjson/document.h
+/opt/xmr-stak-cpu-master/xmr-stak-cpu/rapidjson/document.h
+jext.h
+/opt/xmr-stak-cpu-master/xmr-stak-cpu/jext.h
+socks.h
+/opt/xmr-stak-cpu-master/xmr-stak-cpu/socks.h
+socket.h
+/opt/xmr-stak-cpu-master/xmr-stak-cpu/socket.h
+version.h
+/opt/xmr-stak-cpu-master/xmr-stak-cpu/version.h
 
 /opt/xmr-stak-cpu-master/xmr-stak-cpu/jpsock.h
 mutex
