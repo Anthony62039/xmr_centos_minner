@@ -1,0 +1,2 @@
+/opt/rh/devtoolset-4/root/usr/bin/ar qc libxmr-stak-c.a  CMakeFiles/xmr-stak-c.dir/crypto/c_blake256.c.o CMakeFiles/xmr-stak-c.dir/crypto/c_groestl.c.o CMakeFiles/xmr-stak-c.dir/crypto/c_jh.c.o CMakeFiles/xmr-stak-c.dir/crypto/c_keccak.c.o CMakeFiles/xmr-stak-c.dir/crypto/c_skein.c.o CMakeFiles/xmr-stak-c.dir/crypto/soft_aes.c.o
+/opt/rh/devtoolset-4/root/usr/bin/ranlib libxmr-stak-c.a
